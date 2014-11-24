@@ -1,0 +1,77 @@
+.navbar.navbar-default.topmenu {
+    background-color: #4567D3;
+}
+.navbar-default .navbar-nav li a {
+    color: #F0EBEB;
+}
+/*
+.navbar-default .navbar-nav li.active a {
+    background: url(http://markhalpernblog.com/wp-content/themes/emerald-stretch/img/menu-hover-bg.png) no-repeat right center;
+}
+.navbar-default .navbar-nav li.active {
+    padding: 0px 0px 0px 5px!important;
+    margin-left: 10px;
+    background: url(http://markhalpernblog.com/wp-content/themes/emerald-stretch/img/menu-li-bg.png) no-repeat left center;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    background: url(http://markhalpernblog.com/wp-content/themes/emerald-stretch/img/menu-hover-bg.png) no-repeat right center;
+}
+.navbar-default .navbar-nav li:hover,
+.navbar-default .navbar-nav li:focus {
+    padding: 0px 0px 0px 0px!important;
+    margin-left: 0px;
+    background: url(http://markhalpernblog.com/wp-content/themes/emerald-stretch/img/menu-li-bg.png) no-repeat left center;
+}*/
+
+.container.main {
+    element.style;
+    margin-top: 13px;
+}
+.list-group.leftcol li img {
+    width: 100%;
+}
+img.auto-width {
+    width: 100%;
+}
+.top-buffer {
+    margin-top: 20px;
+}
+.testimonials-text {
+    font-size: 10.5px;
+}
+footer {
+    background: #7e7e7e;
+    color: #dbdbdb;
+    font-size: 11px;
+    line-height: 13px;
+    height: 50px;
+}
+.home-post h2 a {
+    font-family: verdana !important;
+    font-size: 16px !important;
+    color: #333 !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+    border-bottom: 1px dashed #ccc;
+    padding: 0 0 15px 0;
+    display: block;
+}
+.home-post {
+    background: url(http://markhalpernblog.com/wp-content/themes/emerald-stretch/img/border-line.png) bottom center no-repeat;
+    padding: 0 0 48px !important;
+}
+.head_line {
+    background: url(http://markhalpernblog.com/wp-content/themes/emerald-stretch/img/wrapper-bg.jpg) repeat-x #fff bottom;
+    background-color: black;
+    color: #dbdbdb;
+    font-size: 11px;
+    line-height: 13px;
+    height: 60px;
+}
